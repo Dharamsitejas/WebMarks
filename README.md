@@ -23,7 +23,7 @@
 
 ### Books
 
-- [48 Laws of Power](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197
+- [48 Laws of Power](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197)
 
 <hr>
 
