@@ -7,11 +7,11 @@
 
 -
 
-### LIFE
+### Life
 
 - [The logic of loving yourself](https://www.ted.com/playlists/465/the_logic_of_loving_yourself)
 
-### Tweets
+### Those 280 Characters
 
 - 
 
