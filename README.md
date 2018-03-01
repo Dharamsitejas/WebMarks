@@ -5,7 +5,7 @@
 
 ### Artificial Intelligence
 
-- [Learn with Google AL](https://ai.google/education/)
+- [Learn with Google AI](https://ai.google/education/)
 
 <hr>
 
