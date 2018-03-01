@@ -6,6 +6,7 @@
 ### Artificial Intelligence
 
 - [Learn with Google AI](https://ai.google/education/)
+- [Siraj Raval Videos](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/)
 
 <hr>
 
