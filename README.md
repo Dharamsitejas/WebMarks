@@ -13,6 +13,7 @@
 ### Life
 
 - [The Logic of Loving Yourself](https://www.ted.com/playlists/465/the_logic_of_loving_yourself)
+- [From failing in engineering to co-founding a million-dollar company](https://www.youtube.com/watch?v=nMPqsjuXDmE)
 
 <hr>
 
