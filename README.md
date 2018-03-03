@@ -31,7 +31,7 @@
 
 ### India
 
-- [The Story of India](https://www.amazon.com/The-Story-of-India/dp/B004DCNEQI)
+- The Story of India [ Series](https://www.amazon.com/The-Story-of-India/dp/B004DCNEQI) [Book](https://www.goodreads.com/book/show/1830876.The_Story_of_India)
 
 <hr>
 
