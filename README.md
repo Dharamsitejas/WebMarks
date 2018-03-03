@@ -31,7 +31,7 @@
 
 ### India
 
-- [The Story of India](https://www.amazon.com/The-Story-of-India/dp/B004DCNEQI), [(Book)](https://www.goodreads.com/book/show/1830876.The_Story_of_India)
+- [The Story of India](https://www.amazon.com/The-Story-of-India/dp/B004DCNEQI) (Documentary), [Book](https://www.goodreads.com/book/show/1830876.The_Story_of_India)
 - [Great India: Secrets of the Taj Mahal](https://www.amazon.com/Great-India-Secrets-Taj-Mahal/dp/B06XK47L17)
 
 <hr>
