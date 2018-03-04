@@ -21,7 +21,7 @@
 
 - [The Logic of Loving Yourself](https://www.ted.com/playlists/465/the_logic_of_loving_yourself)
 - [From failing in engineering to co-founding a million-dollar company](https://www.youtube.com/watch?v=nMPqsjuXDmE)
-- [Leadership is an amazing disease - Saurav Ganguly](https://economictimes.indiatimes.com/news/sports/leadership-is-an-amazing-disease-it-either-cures-you-or-kills-you-saurav-ganguly/articleshow/63150043.cms_
+- [Leadership is an amazing disease - Saurav Ganguly](https://economictimes.indiatimes.com/news/sports/leadership-is-an-amazing-disease-it-either-cures-you-or-kills-you-saurav-ganguly/articleshow/63150043.cms)
 
 <hr>
 
