@@ -41,6 +41,7 @@
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Jobs vs Gates](https://www.amazon.com/gp/video/detail/B077KBDWG1/)
+- [Facebook: Cracking the Code](https://www.amazon.com/gp/video/detail/B06ZXSGZ51)
 
 
 If you read something interesting and what to add that to WebMarks, feel free to send a [Pull Request](https://github.com/Dharamsitejas/WebMarks/pulls). 
