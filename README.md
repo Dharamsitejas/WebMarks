@@ -7,6 +7,7 @@
 
 - [Learn with Google AI](https://ai.google/education/)
 - [Siraj Raval Videos](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/)
+- [Rules of ML](https://developers.google.com/machine-learning/rules-of-ml/)
 
 <hr>
 
