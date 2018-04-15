@@ -24,6 +24,7 @@
 - [From failing in engineering to co-founding a million-dollar company](https://www.youtube.com/watch?v=nMPqsjuXDmE) - Varun Agarwal
 - [Leadership is an amazing disease.](https://economictimes.indiatimes.com/news/sports/leadership-is-an-amazing-disease-it-either-cures-you-or-kills-you-saurav-ganguly/articleshow/63150043.cms) - Saurav Ganguly
 - [3 Healthy Habits for Programmers](https://dev.to/_patrickgod/3-healthy-habits-for-programmers-1dce)
+- [Schools kill creativity](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
 
 <hr>
 
