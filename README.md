@@ -41,6 +41,12 @@
 
 <hr>
 
+### Podcasts 
+
+- [Anjali Sud, CEO Vimeo](http://www.businessinsider.com/vimeo-anjali-sud-business-advice-2018-4)
+
+<hr>
+
 ### Misc
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
