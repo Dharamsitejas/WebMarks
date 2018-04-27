@@ -8,6 +8,7 @@
 - [Learn with Google AI](https://ai.google/education/)
 - [Siraj Raval Videos](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/)
 - [Rules of ML](https://developers.google.com/machine-learning/rules-of-ml/)
+- [Applied Machine Learning by Andreas C. Mueller](http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/) Slides + Videos
 
 <hr>
 
