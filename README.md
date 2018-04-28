@@ -26,10 +26,11 @@
 - [Leadership is an amazing disease.](https://economictimes.indiatimes.com/news/sports/leadership-is-an-amazing-disease-it-either-cures-you-or-kills-you-saurav-ganguly/articleshow/63150043.cms) - Saurav Ganguly
 - [3 Healthy Habits for Programmers](https://dev.to/_patrickgod/3-healthy-habits-for-programmers-1dce)
 - [Schools kill creativity](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
+- [The Puzzle of Motivation](https://www.youtube.com/watch?v=rrkrvAUbU9Y)
 
 <hr>
 
-### Those ~~140~~ 280 characters
+### Quotes
 
 - 
 
