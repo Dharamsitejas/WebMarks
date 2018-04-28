@@ -32,6 +32,7 @@
 
 ### Quotes
 
+- The secret to high performance isn't rewards and punishments, but that unseen intrinsic drive- the drive to do things for their own sake. The drive to do things because they matter. - Dan Pink.
 - 
 
 <hr>
