@@ -27,6 +27,7 @@
 - [3 Healthy Habits for Programmers](https://dev.to/_patrickgod/3-healthy-habits-for-programmers-1dce)
 - [Schools kill creativity](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
 - [The Puzzle of Motivation](https://www.youtube.com/watch?v=rrkrvAUbU9Y)
+- [How I Fail - Ian GoodFellow](http://www.veronikach.com/how-i-fail/how-i-fail-ian-goodfellow-phd14-computer-science/)
 
 <hr>
 
