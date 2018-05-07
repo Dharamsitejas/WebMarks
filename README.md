@@ -28,6 +28,7 @@
 - [Schools kill creativity](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
 - [The Puzzle of Motivation](https://www.youtube.com/watch?v=rrkrvAUbU9Y)
 - [How I Fail - Ian GoodFellow](http://www.veronikach.com/how-i-fail/how-i-fail-ian-goodfellow-phd14-computer-science/)
+- [De-Clutter Your Life, De-Clutter Your Soul](https://www.goalcast.com/2017/06/30/declutter-your-life-declutter-your-soul/)
 
 <hr>
 
@@ -35,6 +36,7 @@
 
 - The secret to high performance isn't rewards and punishments, but that unseen intrinsic drive- the drive to do things for their own sake. The drive to do things because they matter. - Dan Pink.
 - One of the most powerful means of effecting change is when people can directly, tangibly and emotionally experience some of the future consequences of their actions today. - Anab Jain.
+- If you are not scared, then you are not taking a chance. If you are not taking a chance, then what the hell are you doing? - Ted Mosby
 
 <hr>
 
