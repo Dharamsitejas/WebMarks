@@ -38,6 +38,7 @@
 - One of the most powerful means of effecting change is when people can directly, tangibly and emotionally experience some of the future consequences of their actions today. - Anab Jain.
 - If you are not scared, then you are not taking a chance. If you are not taking a chance, then what the hell are you doing? - Ted Mosby
 - I think it's important to realize that you cab miss something but not want it back. - Paulo Coelho
+- The world gives you so much pain and here you are making gold out of it — there is nothing purer than that. - Rupi Kaur
 
 <hr>
 
