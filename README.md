@@ -30,6 +30,7 @@
 - [The Puzzle of Motivation](https://www.youtube.com/watch?v=rrkrvAUbU9Y)
 - [How I Fail - Ian GoodFellow](http://www.veronikach.com/how-i-fail/how-i-fail-ian-goodfellow-phd14-computer-science/)
 - [De-Clutter Your Life, De-Clutter Your Soul](https://www.goalcast.com/2017/06/30/declutter-your-life-declutter-your-soul/)
+- [Theres more to life than being happy](https://www.ted.com/talks/emily_esfahani_smith_there_s_more_to_life_than_being_happy?utm_campaign=tedspread&utm_content=talk&utm_medium=referral&utm_source=tedcomshare&utm_term=social-science)
 
 <hr>
 
