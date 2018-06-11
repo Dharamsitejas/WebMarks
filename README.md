@@ -41,6 +41,7 @@
 - If you are not scared, then you are not taking a chance. If you are not taking a chance, then what the hell are you doing? - Ted Mosby
 - I think it's important to realize that you cab miss something but not want it back. - Paulo Coelho
 - The world gives you so much pain and here you are making gold out of it — there is nothing purer than that. - Rupi Kaur
+- Before you make a career decision, ask yourself what will happen if you’re the 1000th best at what you do in the world. - Richard Muller
 
 <hr>
 
