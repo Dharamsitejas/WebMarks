@@ -10,6 +10,7 @@
 - [Rules of ML](https://developers.google.com/machine-learning/rules-of-ml/)
 - [Applied Machine Learning by Andreas C. Mueller](http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/) (Slides + Videos)
 - [Machine Learning by Prof. John Paisley](http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/W4721Spring2017.html)
+- [CNN for Visual Recognition by Prof. Andrej Karpathy](http://cs231n.stanford.edu)
 
 <hr>
 
