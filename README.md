@@ -9,6 +9,7 @@
 - [Siraj Raval Videos](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/)
 - [Rules of ML](https://developers.google.com/machine-learning/rules-of-ml/)
 - [Applied Machine Learning by Andreas C. Mueller](http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/) (Slides + Videos)
+- [Machine Learning by Prof. John Paisley](http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/W4721Spring2017.html)
 
 <hr>
 
