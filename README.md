@@ -47,6 +47,7 @@
 - The world gives you so much pain and here you are making gold out of it — there is nothing purer than that. - Rupi Kaur
 - Before you make a career decision, ask yourself what will happen if you’re the 1000th best at what you do in the world. - Richard Muller
 - Money doesn’t bring happiness and creativity. Your creativity and happiness brings money. - Sam Rosen
+- “Expectations vs. Simplicity” is a tradeoff that we need to make in life. - Rohan Jain
 
 <hr>
 
