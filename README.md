@@ -33,7 +33,7 @@
 - [How I Fail - Ian GoodFellow](http://www.veronikach.com/how-i-fail/how-i-fail-ian-goodfellow-phd14-computer-science/)
 - [De-Clutter Your Life, De-Clutter Your Soul](https://www.goalcast.com/2017/06/30/declutter-your-life-declutter-your-soul/)
 - [Theres more to life than being happy](https://www.ted.com/talks/emily_esfahani_smith_there_s_more_to_life_than_being_happy?utm_campaign=tedspread&utm_content=talk&utm_medium=referral&utm_source=tedcomshare&utm_term=social-science)
--[What are the small things you can do to have a good life?](http://qr.ae/TUIIf2)
+- [What are the small things you can do to have a good life?](http://qr.ae/TUIIf2)
 
 <hr>
 
