@@ -35,6 +35,7 @@
 - [Theres more to life than being happy](https://www.ted.com/talks/emily_esfahani_smith_there_s_more_to_life_than_being_happy?utm_campaign=tedspread&utm_content=talk&utm_medium=referral&utm_source=tedcomshare&utm_term=social-science)
 - [What are the small things you can do to have a good life?](http://qr.ae/TUIIf2)
 - [Why is our generations so unhappy?](http://qr.ae/TUINTS)
+- [Life Doesn’t Reward You For What You Know, But For What You Do](https://medium.com/thrive-global/life-doesnt-reward-you-for-what-you-know-but-for-what-you-do-f05b80e9c710)
 
 <hr>
 
