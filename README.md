@@ -77,7 +77,6 @@
 - [Jobs vs Gates](https://www.amazon.com/gp/video/detail/B077KBDWG1/)
 - [Facebook: Cracking the Code](https://www.amazon.com/gp/video/detail/B06ZXSGZ51)
 - [Steve Jobs - One Last Thing](https://www.amazon.com/gp/video/detail/B008WF9BZA)
-- "Anxiety is like having a frantic AI algorithm in your brain trying to predict patterns from the data of your entire life (including fiction & news you've consumed) and predicting all outcomes at the same time and you have to prepare for literally everything just in case." - @JoAnnaScience
 - [Being Glue](https://www.slideshare.net/TanyaReilly/being-glue)
 
 
