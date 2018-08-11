@@ -65,6 +65,12 @@
 
 <hr>
 
+### Tweets
+
+- "Anxiety is like having a frantic AI algorithm in your brain trying to predict patterns from the data of your entire life (including fiction & news you've consumed) and predicting all outcomes at the same time and you have to prepare for literally everything just in case." - @JoAnnaScience
+
+<hr>
+
 ### Misc
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
