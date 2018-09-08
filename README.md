@@ -52,6 +52,7 @@
 - “Expectations vs. Simplicity” is a tradeoff that we need to make in life. - Rohan Jain
 - You cant measure that which you do not have.
 - The more we rely on the acknowldgement and praise of others to define our sense of self, the more beholden we become to things we can't control to feel "successful". Much more liberating (and successful) to define that for yourself. - Jeff Weiner
+- Always remember that a satisfied life is better than successful life because success is measured by others, but your satisfaction is measured by your own heart, mind and soul.
 
 <hr>
 
