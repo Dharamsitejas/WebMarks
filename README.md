@@ -54,6 +54,7 @@
 - The more we rely on the acknowldgement and praise of others to define our sense of self, the more beholden we become to things we can't control to feel "successful". Much more liberating (and successful) to define that for yourself. - Jeff Weiner
 - Always remember that a satisfied life is better than successful life because success is measured by others, but your satisfaction is measured by your own heart, mind and soul.
 - At every crossroads in life you have two choices; one is right and the other is easy.
+- Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind. - Bernard M. Baruch
 
 <hr>
 
