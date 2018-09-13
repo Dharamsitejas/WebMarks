@@ -45,7 +45,7 @@
 - The secret to high performance isn't rewards and punishments, but that unseen intrinsic drive- the drive to do things for their own sake. The drive to do things because they matter. - Dan Pink.
 - One of the most powerful means of effecting change is when people can directly, tangibly and emotionally experience some of the future consequences of their actions today. - Anab Jain.
 - If you are not scared, then you are not taking a chance. If you are not taking a chance, then what the hell are you doing? - Ted Mosby
-- I think it's important to realize that you cab miss something but not want it back. - Paulo Coelho
+- I think it's important to realize that you can miss something but not want it back. - Paulo Coelho
 - The world gives you so much pain and here you are making gold out of it — there is nothing purer than that. - Rupi Kaur
 - Before you make a career decision, ask yourself what will happen if you’re the 1000th best at what you do in the world. - Richard Muller
 - Money doesn’t bring happiness and creativity. Your creativity and happiness brings money. - Sam Rosen
