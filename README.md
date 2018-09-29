@@ -56,6 +56,7 @@
 - At every crossroads in life you have two choices; one is right and the other is easy.
 - Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind. - Bernard M. Baruch
 - Life is mostly forth and bubble, two things stand like stone. Kindness in another's trouble, courage in your own.
+- Hard work beats talent when talent doesn't work hard.
 
 <hr>
 
