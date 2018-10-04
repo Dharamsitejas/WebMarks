@@ -11,6 +11,7 @@
 - [Applied Machine Learning by Andreas C. Mueller](http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/) (Slides + Videos)
 - [Machine Learning by Prof. John Paisley](http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/W4721Spring2017.html)
 - [CNN for Visual Recognition by Prof. Andrej Karpathy](http://cs231n.stanford.edu)
+- [Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 
 <hr>
 
