@@ -59,6 +59,7 @@
 - Life is mostly forth and bubble, two things stand like stone. Kindness in another's trouble, courage in your own.
 - Hard work beats talent when talent doesn't work hard.
 - A friendship founded on business is better than a business founded on friendship.
+- Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.
 
 <hr>
 
