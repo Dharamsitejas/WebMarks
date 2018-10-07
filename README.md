@@ -60,6 +60,7 @@
 - Hard work beats talent when talent doesn't work hard.
 - A friendship founded on business is better than a business founded on friendship.
 - Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.
+- Nothing changes if nothing changes.
 
 <hr>
 
