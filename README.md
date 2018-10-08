@@ -61,6 +61,7 @@
 - A friendship founded on business is better than a business founded on friendship.
 - Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.
 - Nothing changes if nothing changes.
+- Not everyone has the same heart as you and not everyone is going to do what you have done for them. People will do what is best for them.
 
 <hr>
 
