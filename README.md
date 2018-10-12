@@ -85,6 +85,15 @@
 
 - "Anxiety is like having a frantic AI algorithm in your brain trying to predict patterns from the data of your entire life (including fiction & news you've consumed) and predicting all outcomes at the same time and you have to prepare for literally everything just in case." - @JoAnnaScience
 - "If a system fails occasionally, you prepare for that. And if it never fails, that's great. In between is the problem, a system just reliable enough to lull you into complacency" - @JohnDCook
+- "I think there are 3 kinds of ambition.
+
+The first kind is to seek external validation -- money & status.
+
+A higher kind is to seek impact & legacy.
+
+The highest kind is to seek answers. To seek to see clearly. What's really going on in this universe?
+
+Ambition is a selfish thing." - @fchollet
 
 <hr>
 
