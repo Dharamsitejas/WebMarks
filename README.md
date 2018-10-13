@@ -76,12 +76,6 @@
 
 <hr>
 
-### Podcasts 
-
-- [Anjali Sud, CEO Vimeo](http://www.businessinsider.com/vimeo-anjali-sud-business-advice-2018-4)
-
-<hr>
-
 ### Tweets
 
 - "Anxiety is like having a frantic AI algorithm in your brain trying to predict patterns from the data of your entire life (including fiction & news you've consumed) and predicting all outcomes at the same time and you have to prepare for literally everything just in case." - @JoAnnaScience
