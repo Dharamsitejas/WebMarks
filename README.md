@@ -44,6 +44,7 @@
 
 ### Quotes
 
+- **ati sarvatra varjayet**
 - The secret to high performance isn't rewards and punishments, but that unseen intrinsic drive- the drive to do things for their own sake. The drive to do things because they matter. - Dan Pink.
 - One of the most powerful means of effecting change is when people can directly, tangibly and emotionally experience some of the future consequences of their actions today. - Anab Jain.
 - If you are not scared, then you are not taking a chance. If you are not taking a chance, then what the hell are you doing? - Ted Mosby
