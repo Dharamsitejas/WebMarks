@@ -61,12 +61,10 @@
 - Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind. - Bernard M. Baruch
 - Life is mostly forth and bubble, two things stand like stone. Kindness in another's trouble, courage in your own.
 - Hard work beats talent when talent doesn't work hard.
-- A friendship founded on business is better than a business founded on friendship.
-- Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.
 - Nothing changes if nothing changes.
 - Not everyone has the same heart as you and not everyone is going to do what you have done for them. People will do what is best for them.
 - Be brave if you want to make a difference. Be patient if something can't be changed. And be wise to know when courage is needed and when patience is needed.
-- No one cares about your story until you win, so win.
+
 
 <hr>
 
