@@ -54,17 +54,15 @@
 - The world gives you so much pain and here you are making gold out of it — there is nothing purer than that. - Rupi Kaur
 - Before you make a career decision, ask yourself what will happen if you’re the 1000th best at what you do in the world. - Richard Muller
 - Money doesn’t bring happiness and creativity. Your creativity and happiness brings money. - Sam Rosen
-- “Expectations vs. Simplicity” is a tradeoff that we need to make in life. - Rohan Jain
-- You cant measure that which you do not have.
 - The more we rely on the acknowldgement and praise of others to define our sense of self, the more beholden we become to things we can't control to feel "successful". Much more liberating (and successful) to define that for yourself. - Jeff Weiner
 - Always remember that a satisfied life is better than successful life because success is measured by others, but your satisfaction is measured by your own heart, mind and soul.
 - Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind. - Bernard M. Baruch
 - Life is mostly forth and bubble, two things stand like stone. Kindness in another's trouble, courage in your own.
 - Hard work beats talent when talent doesn't work hard.
-- Nothing changes if nothing changes.
 - Not everyone has the same heart as you and not everyone is going to do what you have done for them. People will do what is best for them.
 - Be brave if you want to make a difference. Be patient if something can't be changed. And be wise to know when courage is needed and when patience is needed.
 - If you don't heal what hurt you, you'll bleed on people who didn't cut you.
+- Isn't it funny how day by day nothing changes, but when you look back, everything is different?
 
 <hr>
 
