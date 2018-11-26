@@ -71,7 +71,7 @@
 
 - [48 Laws of Power](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197)
 - [Tuesdays with Morrie](https://en.wikipedia.org/wiki/Tuesdays_with_Morrie)
-- [This book loves you](https://www.amazon.com/This-Book-Loves-You-PewDiePie/dp/1101999047)
+- [This Book Loves You](https://www.amazon.com/This-Book-Loves-You-PewDiePie/dp/1101999047)
 
 <hr>
 
