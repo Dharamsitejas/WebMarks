@@ -63,6 +63,7 @@
 - Be brave if you want to make a difference. Be patient if something can't be changed. And be wise to know when courage is needed and when patience is needed.
 - If you don't heal what hurt you, you'll bleed on people who didn't cut you.
 - Isn't it funny how day by day nothing changes, but when you look back, everything is different?
+- You never know how strong you are until being strong is the only choice you have left.
 
 <hr>
 
@@ -70,6 +71,7 @@
 
 - [48 Laws of Power](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197)
 - [Tuesdays with Morrie](https://en.wikipedia.org/wiki/Tuesdays_with_Morrie)
+- [This book loves you](https://www.amazon.com/This-Book-Loves-You-PewDiePie/dp/1101999047)
 
 <hr>
 
