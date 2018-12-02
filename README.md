@@ -47,7 +47,6 @@
 
 ### Quotes
 
-- **ati sarvatra varjayet**
 - The secret to high performance isn't rewards and punishments, but that unseen intrinsic drive- the drive to do things for their own sake. The drive to do things because they matter. - Dan Pink.
 - One of the most powerful means of effecting change is when people can directly, tangibly and emotionally experience some of the future consequences of their actions today. - Anab Jain.
 - If you are not scared, then you are not taking a chance. If you are not taking a chance, then what the hell are you doing? - Ted Mosby
@@ -58,7 +57,7 @@
 - The more we rely on the acknowldgement and praise of others to define our sense of self, the more beholden we become to things we can't control to feel "successful". Much more liberating (and successful) to define that for yourself. - Jeff Weiner
 - Always remember that a satisfied life is better than successful life because success is measured by others, but your satisfaction is measured by your own heart, mind and soul.
 - Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind. - Bernard M. Baruch
-- Life is mostly forth and bubble, two things stand like stone. Kindness in another's trouble, courage in your own.
+- **Life is mostly forth and bubble, two things stand like stone. Kindness in another's trouble, courage in your own.**
 - Hard work beats talent when talent doesn't work hard.
 - Not everyone has the same heart as you and not everyone is going to do what you have done for them. People will do what is best for them.
 - Be brave if you want to make a difference. Be patient if something can't be changed. And be wise to know when courage is needed and when patience is needed.
