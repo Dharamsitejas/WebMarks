@@ -27,9 +27,9 @@
 
 - [Career advice for recent Computer Science graduates](https://huyenchip.com/2018/10/08/career-advice-recent-cs-graduates.html)
 - [So you want to be a Research Scientist](https://medium.com/@vanhoucke/so-you-want-to-be-a-research-scientist-363c075d3d4c)
+- [If I was more honest](https://medium.com/@ngoeke/if-i-was-more-honest-db94495ff92c)
 - [The Logic of Loving Yourself](https://www.ted.com/playlists/465/the_logic_of_loving_yourself)
 - [From failing in engineering to co-founding a million-dollar company](https://www.youtube.com/watch?v=nMPqsjuXDmE) - Varun Agarwal
-- [Leadership is an amazing disease.](https://economictimes.indiatimes.com/news/sports/leadership-is-an-amazing-disease-it-either-cures-you-or-kills-you-saurav-ganguly/articleshow/63150043.cms) - Saurav Ganguly
 - [3 Healthy Habits for Programmers](https://dev.to/_patrickgod/3-healthy-habits-for-programmers-1dce)
 - [Schools kill creativity](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
 - [The Puzzle of Motivation](https://www.youtube.com/watch?v=rrkrvAUbU9Y)
