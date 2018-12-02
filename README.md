@@ -12,6 +12,7 @@
 - [Machine Learning by Prof. John Paisley](http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/W4721Spring2017.html)
 - [CNN for Visual Recognition by Prof. Andrej Karpathy](http://cs231n.stanford.edu)
 - [Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+- [Deep Learning Cheatsheat CS 230](https://stanford.edu/%7Eshervine/teaching/cs-230.html)
 
 <hr>
 
