@@ -91,6 +91,6 @@
 - [Facebook: Cracking the Code](https://www.amazon.com/gp/video/detail/B06ZXSGZ51)
 - [Steve Jobs - One Last Thing](https://www.amazon.com/gp/video/detail/B008WF9BZA)
 - [Being Glue](https://www.slideshare.net/TanyaReilly/being-glue)
-
+- [IIf Xerox PARC invented the PC, Google invented the Internet](https://www.wired.com/2012/08/google-as-xerox-parc/)
 
 If you read something interesting and what to add that to WebMarks, feel free to send a [Pull Request](https://github.com/Dharamsitejas/WebMarks/pulls). 
