@@ -13,6 +13,7 @@
 - [CNN for Visual Recognition by Prof. Andrej Karpathy](http://cs231n.stanford.edu)
 - [Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - [Deep Learning Cheatsheat CS 230](https://stanford.edu/%7Eshervine/teaching/cs-230.html)
+- [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 <hr>
 
