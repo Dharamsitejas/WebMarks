@@ -63,9 +63,8 @@
 - Hard work beats talent when talent doesn't work hard.
 - Not everyone has the same heart as you and not everyone is going to do what you have done for them. People will do what is best for them.
 - Be brave if you want to make a difference. Be patient if something can't be changed. And be wise to know when courage is needed and when patience is needed.
-- If you don't heal what hurt you, you'll bleed on people who didn't cut you.
 - Isn't it funny how day by day nothing changes, but when you look back, everything is different?
-- You never know how strong you are until being strong is the only choice you have left.
+- Trying to change another person will not heal you.
 
 <hr>
 
