@@ -65,6 +65,7 @@
 - Be brave if you want to make a difference. Be patient if something can't be changed. And be wise to know when courage is needed and when patience is needed.
 - Isn't it funny how day by day nothing changes, but when you look back, everything is different?
 - Trying to change another person will not heal you.
+- Coincidence is God's way of remaining anonymous
 
 <hr>
 
