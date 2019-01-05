@@ -33,9 +33,7 @@
 - [The Logic of Loving Yourself](https://www.ted.com/playlists/465/the_logic_of_loving_yourself)
 - [From failing in engineering to co-founding a million-dollar company](https://www.youtube.com/watch?v=nMPqsjuXDmE) - Varun Agarwal
 - [3 Healthy Habits for Programmers](https://dev.to/_patrickgod/3-healthy-habits-for-programmers-1dce)
-- [Schools kill creativity](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
 - [The Puzzle of Motivation](https://www.youtube.com/watch?v=rrkrvAUbU9Y)
-- [How I Fail - Ian GoodFellow](http://www.veronikach.com/how-i-fail/how-i-fail-ian-goodfellow-phd14-computer-science/)
 - [De-Clutter Your Life, De-Clutter Your Soul](https://www.goalcast.com/2017/06/30/declutter-your-life-declutter-your-soul/)
 - [Theres more to life than being happy](https://www.ted.com/talks/emily_esfahani_smith_there_s_more_to_life_than_being_happy?utm_campaign=tedspread&utm_content=talk&utm_medium=referral&utm_source=tedcomshare&utm_term=social-science)
 - [What are the small things you can do to have a good life?](http://qr.ae/TUIIf2)
@@ -59,11 +57,9 @@
 - Always remember that a satisfied life is better than successful life because success is measured by others, but your satisfaction is measured by your own heart, mind and soul.
 - Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind. - Bernard M. Baruch
 - **Life is mostly forth and bubble, two things stand like stone. Kindness in another's trouble, courage in your own.**
-- Hard work beats talent when talent doesn't work hard.
 - Not everyone has the same heart as you and not everyone is going to do what you have done for them. People will do what is best for them.
 - Be brave if you want to make a difference. Be patient if something can't be changed. And be wise to know when courage is needed and when patience is needed.
 - Isn't it funny how day by day nothing changes, but when you look back, everything is different?
-- Trying to change another person will not heal you.
 - Coincidence is God's way of remaining anonymous.
 - Watching someone else totally go for it can be incredibly upsetting to the person who's spent a lifetime building a solid case for why they themselves can't - Jen Sincero
 
