@@ -42,7 +42,6 @@
 - [Why is our generations so unhappy?](http://qr.ae/TUINTS)
 - [Life Doesn’t Reward You For What You Know, But For What You Do](https://medium.com/thrive-global/life-doesnt-reward-you-for-what-you-know-but-for-what-you-do-f05b80e9c710)
 - [The Purpose of life is not happiness its usefulness](https://medium.com/darius-foroux/the-purpose-of-life-is-not-happiness-its-usefulness-65064d0cdd59)
-- [Simon Sinek about Love, Relationships & Leadership](https://www.youtube.com/watch?v=dsQPhVwXcuc)
 - [How to fix a broken heart](https://www.youtube.com/watch?v=k0GQSJrpVhM)
 
 <hr>
