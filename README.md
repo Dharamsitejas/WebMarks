@@ -62,6 +62,7 @@
 - Isn't it funny how day by day nothing changes, but when you look back, everything is different?
 - Coincidence is God's way of remaining anonymous.
 - Watching someone else totally go for it can be incredibly upsetting to the person who's spent a lifetime building a solid case for why they themselves can't - Jen Sincero
+- Be who you needed when you were younger.
 
 <hr>
 
