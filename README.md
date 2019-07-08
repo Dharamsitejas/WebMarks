@@ -83,6 +83,7 @@
 - "If a system fails occasionally, you prepare for that. And if it never fails, that's great. In between is the problem, a system just reliable enough to lull you into complacency" - @JohnDCook
 - "I think there are 3 kinds of ambition. The first kind is to seek external validation -- money & status. A higher kind is to seek impact & legacy. The highest kind is to seek answers. To seek to see clearly. What's really going on in this universe ? Ambition is a selfish thing." - @fchollet
 - "Modern economies are certainly good at a certain kind of resource allocation, but they're crap at allocating the most valuable resource -- people's potential. To start with, having to earn $$ is such an enormous distraction from everything you *could* be doing. You know it." - @fchollet
+- "Your success is the net sum of all the people you’ve helped + the people you’ve inspired." - @abarrallen
 
 <hr>
 
