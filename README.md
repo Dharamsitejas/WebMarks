@@ -61,8 +61,6 @@
 - **Life is mostly forth and bubble, two things stand like stone. Kindness in another's trouble, courage in your own.**
 - Not everyone has the same heart as you and not everyone is going to do what you have done for them. People will do what is best for them.
 - Be brave if you want to make a difference. Be patient if something can't be changed. And be wise to know when courage is needed and when patience is needed.
-- Isn't it funny how day by day nothing changes, but when you look back, everything is different?
-- Coincidence is God's way of remaining anonymous.
 - Watching someone else totally go for it can be incredibly upsetting to the person who's spent a lifetime building a solid case for why they themselves can't - Jen Sincero
 - Be who you needed when you were younger.
 - You can't do special things if you are too practical. - Virat Kohli
